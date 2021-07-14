@@ -1,5 +1,5 @@
 function mostrar()
 {
-	let getRandom = Math.floor(Math.random() * 10)
-	alert(getRandom)
+	let numeroRandom = Math.floor(Math.random() * 11);
+	alert(numeroRandom)
 }//FIN DE LA FUNCIÓN
